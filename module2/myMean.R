@@ -8,3 +8,5 @@ myMean(assignment2)  # expect 19.25
 
 
 Module 2: add corrected myMean and test
+
+Blog Link: https://tasfiqueimamlis4370.blogspot.com/2025/09/module-2-assignment-importing-data-and.html
