@@ -8,8 +8,9 @@ Repository for R Programming Assignments.
 ## Contents
 - `assignments/` – homework and project files
 - `notes/` – brief notes or code snippets
-- `images/` – screenshots (e.g., RStudio console)
+- `images/` – screenshots (e.g., RStudio console, plots)
 - `module2/` – code and files for Module 2
+- `module3/` – code and files for Module 3
 
 ## Setup
 - R: https://cran.r-project.org/
