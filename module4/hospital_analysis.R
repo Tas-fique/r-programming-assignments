@@ -60,3 +60,6 @@ hist(df_hosp$BloodPressure,
      breaks = 8,
      xlab = "Blood Pressure", main = "Histogram of Blood Pressure")
 dev.off()
+
+
+Blog Link: https://tasfiqueimamlis4370.blogspot.com/2025/09/assignment-4-visualizing-and.html
