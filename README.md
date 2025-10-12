@@ -14,6 +14,7 @@ Repository for R Programming Assignments.
 - `module4/` – code and files for Module 4
 - `module5/` – code and files for Module 5
 - `module6/` – code and files for Module 6
+- `module7/` – code and files for Module 7
 
 ## Setup
 - R: https://cran.r-project.org/
