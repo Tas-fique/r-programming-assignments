@@ -1,7 +1,7 @@
 # r-programming-assignments
 
 **Name:** Tasfique Imam  
-**Course:** LIS 4317 (R Programming)
+**Course:** LIS 4370 (R Programming)
 
 Repository for R Programming Assignments.
 
@@ -15,6 +15,7 @@ Repository for R Programming Assignments.
 - `module5/` – code and files for Module 5
 - `module6/` – code and files for Module 6
 - `module7/` – code and files for Module 7
+- `module8/` – code and files for Module 8
 
 ## Setup
 - R: https://cran.r-project.org/
