@@ -1,0 +1,25 @@
+---
+title: "My R Markdown Primer"
+author: "Tasfique Imam"
+output: html_document
+---
+## Introduction
+
+R Markdown allows you to combine **text, R code, and math** in the same document.
+
+Inline math example: $\alpha + \beta = \gamma$
+
+A displayed equation:
+
+$$
+E = mc^2
+$$
+
+---
+
+## Loading Data and Running Code
+
+```{r load-data, message=FALSE}
+library(ggplot2)
+data(mtcars)
+head(mtcars)
